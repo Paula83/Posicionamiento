@@ -1,0 +1,43 @@
+
+
+.big{
+	position: static;
+	left: 20px;
+	width:200px;
+	height:200px;
+	margin: 20px; 
+    background-color: red; 	
+}
+
+.medium{
+	position: absolute;
+	top: 130px;
+	bottom: 100px;
+	right:0;
+	left: 77px;
+	width: 100px;
+	height: 100px;
+	background-color: purple
+    }
+    
+	
+
+.little{
+	position: absolute;
+	top: 130px;
+	bottom: 25px;
+	width: 50px;
+	height: 50px;
+	right: 0;
+	left: 76px;
+    background-color: yellow;
+}
+
+	
+
+ 
+
+	
+
+
+
